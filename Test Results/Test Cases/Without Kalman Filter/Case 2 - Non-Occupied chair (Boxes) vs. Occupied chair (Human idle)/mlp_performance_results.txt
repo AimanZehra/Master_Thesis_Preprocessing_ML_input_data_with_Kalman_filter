@@ -1,0 +1,25 @@
+Confusion Matrix:
+[[1668   15]
+ [  52 1565]]
+
+Accuracy: 0.9797
+
+Classification Report:
+              precision    recall  f1-score   support
+
+Non-occupied       0.97      0.99      0.98      1683
+    Occupied       0.99      0.97      0.98      1617
+
+    accuracy                           0.98      3300
+   macro avg       0.98      0.98      0.98      3300
+weighted avg       0.98      0.98      0.98      3300
+
+Precision (PPV): 0.9905
+Recall (TPR): 0.9678
+F1 Score: 0.9797
+Specificity (TNR): 0.9911
+True Positive (TP): 1565
+True Negative (TN): 1668
+False Positive (FP): 15
+False Negative (FN): 52
+Accuracy: 0.9797
